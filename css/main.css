@@ -1,0 +1,21 @@
+/* Global styles that apply to mobile, tablet, and desktop */
+body,
+html {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1em;
+}
+
+section {
+  width: 50%;
+  margin: auto;
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
